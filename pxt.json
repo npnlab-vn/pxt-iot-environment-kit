@@ -1,0 +1,23 @@
+{
+    "name": "Environment-and-Science-IoT",
+    "version": "4.5.1",
+    "description": "Environment and Science IoT Kit for micro:bit",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "ESP8266_IoT": "github:npnlab-vn/pxt-esp8266iot"
+    },
+    "files": [
+        "environment.ts",
+        "README.md",
+        "_locales/zh/Environment-and-Science-IoT-strings.json"
+    ],
+    "testFiles": [
+        "tests.ts"
+    ],
+    "public": true,
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
