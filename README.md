@@ -95,8 +95,8 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-environment=github:sunnyrainwss/pxt-iot-environment-kit
-iot=github:sunnyrainwss/pxt-iot-environment-kit
+environment=github:npnlab-vn/pxt-iot-environment-kit
+iot=github:npnlab-vn/pxt-iot-environment-kit
 ```
 
 
